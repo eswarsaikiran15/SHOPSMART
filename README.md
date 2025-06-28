@@ -4,6 +4,7 @@
 ## 🛍️ ShopSmart - Your Smart Shopping Companion
 
 **Live Site:** [ShopSmart](https://shopsmart-15.netlify.app/)
+
 **Status:** ✅ Live and Responsive
 **Hosted on:** Netlify
 

@@ -66,7 +66,7 @@ Big thanks to all open-source libraries and tools that supported this build.
 
 Built by **Eswar Sai Kiran Kamparapu**
 📧 Email: \[kamparapusaikiran@gmail.com]
-🌐 Portfolio: \[[your portfolio link](https://my-portfolio-eswar-sai-kiran-kamparapus-projects.vercel.app/)] 
+🌐 Portfolio: \[[eswarsaikiran](https://my-portfolio-eswar-sai-kiran-kamparapus-projects.vercel.app/)] 
 
 ---
 
